@@ -1,0 +1,4 @@
+﻿  huffmanCode.cpp
+E:\people\forCheng\C_code\huffmanEncode\code\huffmanClass.h(96): warning C4018: “<”: 有符号/无符号不匹配
+E:\people\forCheng\C_code\huffmanEncode\code\huffmanClass.h(307): warning C4018: “<”: 有符号/无符号不匹配
+  huffmanEncode.vcxproj -> E:\people\forCheng\C_code\huffmanEncode\Debug\huffmanEncode.exe
